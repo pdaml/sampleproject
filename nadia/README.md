@@ -1,4 +1,4 @@
-# Nadia’s Garden Restaurant
+# My Garden Restaurant
 
 This is a Node.js and Express website that accepts and lists restaurant reservations. Improve it with the lynda.com course, "Node.js: Testing and Code Quality" by Jon Peck.
 
